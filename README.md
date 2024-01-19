@@ -16,7 +16,7 @@
   </a>
 </div>
 
-<h2>Tecnologyes</h2>
+<h2>Tecnologies</h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,py,html,css,js,gcp" />
