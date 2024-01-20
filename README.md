@@ -9,8 +9,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bernaleandro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bernaleandro) 
 
 ## 💻 Tech Stack:
-<p align="left">
-  <a href="https://skillicons.dev">
+<p align="right">
     <img src=https://i.postimg.cc/xTBZYSGk/python.png style="width: 5%; height: auto"/>
     <img src=https://i.postimg.cc/nr3NJjFB/2333390-html-html5-internet-website-85590.png style="width: 5%; height: auto"/>
     <img src=https://i.postimg.cc/KYYN6qKq/css3-02-icon-icons-com-50917.png style="width: 5%; height: auto"/>
@@ -19,7 +18,6 @@
     <img src= style="width: 5%; height: auto"/>
     <img src= style="width: 5%; height: auto"/>
     <img src= style="width: 5%; height: auto"/>
-  </a>
 </p>
 
 ## 📊 GitHub Stats:
