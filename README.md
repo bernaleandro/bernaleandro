@@ -11,7 +11,14 @@
 ## 💻 Tech Stack:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,html,css,js,gcp" />
+    <img src=https://i.postimg.cc/xTBZYSGk/python.png style="width: 5%; height: auto"/>
+    <img src=https://i.postimg.cc/nr3NJjFB/2333390-html-html5-internet-website-85590.png style="width: 5%; height: auto"/>
+    <img src=https://i.postimg.cc/KYYN6qKq/css3-02-icon-icons-com-50917.png style="width: 5%; height: auto"/>
+    <img src=https://i.postimg.cc/j50DHCrH/javascript-icon-153511.png style="width: 5%; height: auto"/>
+    <img src= style="width: 5%; height: auto"/>
+    <img src= style="width: 5%; height: auto"/>
+    <img src= style="width: 5%; height: auto"/>
+    <img src= style="width: 5%; height: auto"/>
   </a>
 </p>
 
