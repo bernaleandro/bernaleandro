@@ -23,19 +23,17 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernaleandro&layout=donut&theme=dark)](https://github.com/bernaleandro/github-readme-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bernaleandro&theme=dark)
 
-
-### 🌐 Socials:
-<br>
+<br><br>
 <div align="center">
     <a href="mailto:tu_correo@example.com"> 
-  <img src="https://i.postimg.cc/X7xnkTNJ/email.png" style="width: 5%; height: auto"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </a>
+  <img src="https://i.postimg.cc/X7xnkTNJ/email.png" style="width: 5%; height: auto"/> 
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://linkedin.com/in/bernaleandro">
-      <img src="https://i.postimg.cc/63CZm9Tn/sociallinkedin-member-70.png" style="width: 5%; height: auto"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </a>
+      <img src="https://i.postimg.cc/63CZm9Tn/sociallinkedin-member-70.png" style="width: 5%; height: auto"/>
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://instagram.com/bernaleandro">
-      <img src="https://i.postimg.cc/BnTQkM0L/instagram.png" style="width: 5%; height: auto"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </a>
+      <img src="https://i.postimg.cc/BnTQkM0L/instagram.png" style="width: 5%; height: auto"/>
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://discord.com/users/ayaxblvck">
       <img src="https://i.postimg.cc/zfGgxQc7/discord.png" style="width: 5%; height: auto"/>
     </a>
