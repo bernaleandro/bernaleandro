@@ -14,7 +14,7 @@
     <img src=https://i.postimg.cc/nr3NJjFB/2333390-html-html5-internet-website-85590.png style="width: 5%; height: auto"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src=https://i.postimg.cc/KYYN6qKq/css3-02-icon-icons-com-50917.png style="width: 5%; height: auto"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src=https://i.postimg.cc/j50DHCrH/javascript-icon-153511.png style="width: 5%; height: auto"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src=https://i.postimg.cc/T1N3vdPp/google-cloud-icon-137536.png style="width: 5%; height: auto"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src=https://i.postimg.cc/T1N3vdPp/google-cloud-icon-137536.png style="width: 5%; height: auto"/>
 </p>
 <br><br>
 
@@ -25,4 +25,19 @@
 
 
 ### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bernaleandro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bernaleandro) 
+<br>
+<div align="center">
+    <a href="mailto:tu_correo@example.com"> 
+  <img src="https://i.postimg.cc/X7xnkTNJ/email.png" style="width: 5%; height: auto"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </a>
+    <a href="https://linkedin.com/in/bernaleandro">
+      <img src="https://i.postimg.cc/63CZm9Tn/sociallinkedin-member-70.png" style="width: 5%; height: auto"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </a>
+    <a href="https://instagram.com/bernaleandro">
+      <img src="https://i.postimg.cc/BnTQkM0L/instagram.png" style="width: 5%; height: auto"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </a>
+    <a href="https://discord.com/users/ayaxblvck">
+      <img src="https://i.postimg.cc/zfGgxQc7/discord.png" style="width: 5%; height: auto"/>
+    </a>
+</div>
+
