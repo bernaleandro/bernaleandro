@@ -24,7 +24,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bernaleandro&theme=dark)
 
 <br><br>
-<p align="center">Social Networks</p><br>
+<p align="center">Contact me</p><br>
 <div align="center">
     <a href="mailto:tu_correo@example.com"> 
   <img src="https://i.postimg.cc/X7xnkTNJ/email.png" style="width: 5%; height: auto"/> 
