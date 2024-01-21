@@ -26,6 +26,6 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bernaleandro&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=bernaleandro&theme=dark&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernaleandro&layout=donut-vertical&theme=dark)](https://github.com/bernaleandro/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=bernaleandro&theme=dark)
 
