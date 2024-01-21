@@ -19,13 +19,10 @@
 <br><br>
 
 
+## 📊 GitHub Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernaleandro&layout=donut&theme=dark)](https://github.com/bernaleandro/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=bernaleandro&theme=dark)
 
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bernaleandro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bernaleandro) 
-
-
-## 📊 GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernaleandro&layout=donut-vertical&theme=dark)](https://github.com/bernaleandro/github-readme-stats)
-![](https://github-readme-streak-stats.herokuapp.com/?user=bernaleandro&theme=dark)
-
