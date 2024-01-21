@@ -8,7 +8,7 @@
 <br><br>
 <p align="center">
     <img src=https://i.postimg.cc/vHyz4GXp/63065002cd563e1cd1cead28-eaadfe64.png style="width: 5%; height: auto" title="C#"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src=https://i.postimg.cc/50bnz1S7/net-core-logo-E82-CE4-F701-seeklogo-com.png style="width: 5%; height: auto" title=".NET Framework"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src=https://i.postimg.cc/sxTpTZS0/Untitled-Project-removebg-preview.png style="width: 5%; height: auto" title=".NET Framework"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src=https://i.postimg.cc/FKJx8zDn/sql-server.png style="width: 5%; height: auto" title="SQL Data Bases (SQL Server 2019)"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src=https://i.postimg.cc/xTBZYSGk/python.png style="width: 5%; height: auto" title="Python"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src=https://i.postimg.cc/nr3NJjFB/2333390-html-html5-internet-website-85590.png style="width: 5%; height: auto" title="HTLM"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
