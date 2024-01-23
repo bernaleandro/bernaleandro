@@ -25,6 +25,7 @@
     <img src=https://i.postimg.cc/SQMGbzzH/visual-studio-logo-icon-144753.png style="width: 5%; height: auto" title="Microsoft Visual Studio"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src=https://i.postimg.cc/kGqGHZSJ/visual-studio-code-logo-icon-144754.png style="width: 5%; height: auto" title="Visual Studio Code"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src=https://i.postimg.cc/P5bPhdtW/178968e5aaf0aa76e485bb427fcb3e3b9a97d97a.png style="width: 5%; height: auto" title="Sublime Text"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src=https://i.postimg.cc/sDPYPrFs/Git-Icon-White.png style="width: 5%; height: auto" title="Git"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src=https://i.postimg.cc/FRGFSFbZ/servidor-sql.png style="width: 5%; height: auto" title="Microsoft SQL Server 2019"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src=https://i.postimg.cc/7LCd0Zf7/sqlite-logo-icon-249537.png style="width: 5%; height: auto" title="SQLite"/>
 </p>
